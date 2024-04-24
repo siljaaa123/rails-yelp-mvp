@@ -1,0 +1,15 @@
+
+<div class="container">
+  <div class="container d-flex align-items-center">
+    <h1 class="mb-4"> Add new restaurant </h1>
+  </div>
+
+  <%= simple_form_for(@restaurant) do |f| %>
+    <%= f.input :name %>
+    <%= f.input :address %>
+    <%= f.input :phone_number %>
+    <%= f.input :category %>
+    <%= link_to "Back", restaurants_path, class: "btn btn-success" %>
+    <%= f.submit class: "btn btn-primary" %>
+  <% end %>
+</div>

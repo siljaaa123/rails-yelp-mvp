@@ -1,0 +1,36 @@
+=> 
+[[32m#<Review:0x00007fc1ea7738d8[0m
+  id: [34m[1m1[0m,
+  rating: [34m[1m5[0m,
+  content: [31m[1m"[0m[31mamazing kitchen with amazing food[0m[31m[1m"[0m,
+  restaurant_id: [34m[1m1[0m,
+  created_at: Wed, 24 Apr 2024 09:35:49.984190000 UTC +00:00,
+  updated_at: Wed, 24 Apr 2024 09:35:49.984190000 UTC +00:00[32m>[0m,
+ [32m#<Review:0x00007fc1eb949008[0m
+  id: [34m[1m2[0m,
+  rating: [34m[1m5[0m,
+  content: [31m[1m"[0m[31mamazing kitchen with amazing food[0m[31m[1m"[0m,
+  restaurant_id: [34m[1m2[0m,
+  created_at: Wed, 24 Apr 2024 09:36:07.548256000 UTC +00:00,
+  updated_at: Wed, 24 Apr 2024 09:36:07.548256000 UTC +00:00[32m>[0m,
+ [32m#<Review:0x00007fc1eb948c98[0m
+  id: [34m[1m3[0m,
+  rating: [34m[1m4[0m,
+  content: [31m[1m"[0m[31mfood was delicious, but could use a bit more salt[0m[31m[1m"[0m,
+  restaurant_id: [34m[1m3[0m,
+  created_at: Wed, 24 Apr 2024 09:38:06.147647000 UTC +00:00,
+  updated_at: Wed, 24 Apr 2024 09:38:06.147647000 UTC +00:00[32m>[0m,
+ [32m#<Review:0x00007fc1eb9489f0[0m
+  id: [34m[1m4[0m,
+  rating: [34m[1m1[0m,
+  content: [31m[1m"[0m[31mhorrible service! I WILL NEVER COME BACK! [0m[31m[1m"[0m,
+  restaurant_id: [34m[1m4[0m,
+  created_at: Wed, 24 Apr 2024 09:38:06.181176000 UTC +00:00,
+  updated_at: Wed, 24 Apr 2024 09:38:06.181176000 UTC +00:00[32m>[0m,
+ [32m#<Review:0x00007fc1eb948810[0m
+  id: [34m[1m5[0m,
+  rating: [34m[1m2[0m,
+  content: [31m[1m"[0m[31mvery dirty environment[0m[31m[1m"[0m,
+  restaurant_id: [34m[1m5[0m,
+  created_at: Wed, 24 Apr 2024 09:38:06.192517000 UTC +00:00,
+  updated_at: Wed, 24 Apr 2024 09:38:06.192517000 UTC +00:00[32m>[0m]
